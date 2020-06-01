@@ -1,1 +1,2 @@
-#hng_utilize
+# HNG_UTILIZE
+A repo dedicated to awesome HNG.
